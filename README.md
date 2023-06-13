@@ -13,7 +13,7 @@ Navigate to the directory where you want to clone the repository.
 
 Clone this repo and use it as a starting point for your own blog.
 
-![image info](assets/screen-super-pepper.png)
+![image info](imagem.png)
 
 
 **NOTE:** Make sure to run `npm complete` before `npm start` for the first time.
